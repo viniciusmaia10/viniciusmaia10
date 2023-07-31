@@ -4,6 +4,6 @@ Meu nome é Vinícius Maia
 
 Estou estudando na alura
 Estou me desenvolvendo na línguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meus projetosdesenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 🥇
